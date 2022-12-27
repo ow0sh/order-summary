@@ -1,6 +1,6 @@
 # order-summary
-FrontendMentor solution made with Tailwind
 
-Solution was written on Next.js + Tailwind
+Application was made with Next.js + Tailwind
 
-npm run start - start the application
+Idea and design was taken from FrontendMentor
+https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
